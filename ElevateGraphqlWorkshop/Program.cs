@@ -19,6 +19,7 @@ namespace ElevateGraphqlWorkshop
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .UseApplicationInsights()
+                .UseUrls("http://*:7000")
                 .Build();
 
             host.Run();
