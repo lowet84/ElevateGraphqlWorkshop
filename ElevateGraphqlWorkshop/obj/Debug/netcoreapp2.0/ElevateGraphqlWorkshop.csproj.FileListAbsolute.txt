@@ -9,3 +9,14 @@ C:\temp\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp
 C:\temp\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.pdb
 C:\temp\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.dll
 C:\temp\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.pdb
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.deps.json
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.runtimeconfig.json
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.runtimeconfig.dev.json
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.dll
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\bin\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.pdb
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.csprojResolveAssemblyReference.cache
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.AssemblyInfoInputs.cache
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.AssemblyInfo.cs
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.dll
+C:\Users\FredrikLowenhamn\Source\Repos\ElevateGraphqlWorkshop\ElevateGraphqlWorkshop\obj\Debug\netcoreapp2.0\ElevateGraphqlWorkshop.pdb

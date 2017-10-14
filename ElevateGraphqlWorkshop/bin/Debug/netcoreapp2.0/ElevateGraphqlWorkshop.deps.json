@@ -1643,7 +1643,7 @@
     "GraphQlRethinkDbLibrary/1.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-QslWSi47qwRqomSuy+72JLa8G7zb+wu2S/8ljFObrRuKiXe+t5CkQ8VhSSEJnDS/F79DZ97KkMdFVQxw6z+GLQ==",
+      "sha512": "sha512-ev6mUImqhTd2afACsaI4Rjkrr8/Pgpv/rdvkkC6GluFR3FOmEKmFkJHvs4tmHXIC2QmZhzm1AQQ6s4s7iNvCkQ==",
       "path": "graphqlrethinkdblibrary/1.0.7",
       "hashPath": "graphqlrethinkdblibrary.1.0.7.nupkg.sha512"
     },
