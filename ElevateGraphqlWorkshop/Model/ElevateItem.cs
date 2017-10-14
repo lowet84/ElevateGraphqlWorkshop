@@ -24,7 +24,7 @@ namespace ElevateGraphqlWorkshop.Model
 
         public string Text { get; }
         public int Number { get; }
-        public NonNull<string> Colour { get; }
+        public string Colour { get; }
         public ElevateName Name { get; }
     }
 

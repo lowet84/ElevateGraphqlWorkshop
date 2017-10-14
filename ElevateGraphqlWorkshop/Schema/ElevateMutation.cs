@@ -21,6 +21,15 @@ namespace ElevateGraphqlWorkshop.Schema
             NonNull<string> text)
         {
             var newItem = new ElevateItem(firstname, lastname, number, colour, text);
+            if (
+                number < 0 
+                || number > 1000
+                || firstname.ToString() == "undefined"
+                || lastname.ToString() == "undefined"
+                || colour.ToString() == "undefined"
+                || text.ToString() == "undefined"
+                )
+                return null;
             context.AddDefault(newItem);
             return new DefaultResult<ElevateItem>(newItem);
         }

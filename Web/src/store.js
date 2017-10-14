@@ -13,11 +13,14 @@ const mutations = {
   setActivePage (state, page) {
     state.activePage = page
   },
-  saveSettings (state) {
-    console.log(state.settings)
+  async saveSettings (state) {
+    let settings = state.settings
     let query =
-      'mutation{saveSettings(}'
-    Api(query)
+      `mutation{addElevateItem(firstname:"${settings.firstname}",lastname:"${settings.lastname}",number:${settings.number},colour:"${settings.colour}",text:"${settings.text}"){result{id}}}`
+    let result = await Api(query)
+    if (result.addElevateItem !== null) {
+      state.settings = {}
+    }
   }
 }
 
